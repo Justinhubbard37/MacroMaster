@@ -1,0 +1,9 @@
+{
+  "name": "MacroMaster",
+  "version": "2.0.0",
+  "description": "Universal intent-driven technical guidance engine. Powered by Gemini 3 Pro, it transforms user goals into linear, logic-gated blueprints for hardware, software, and mechanical tasks.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
